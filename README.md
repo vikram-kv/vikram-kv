@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vikram-kv
-- 👀 I’m interested in algorithm design, calculus and combinatorics.
-- 🌱 I’m currently in my third year pursuing B.Tech(CSE) at [IIT Madras](https://www.iitm.ac.in/).
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and Cryptography. Also, practice Competitive Programming in my leisure time. CF Profile - https://codeforces.com/profile/vikram_kv
+- 🌱 I’m currently in my fourth year pursuing Dual Degree(CSE) at [IIT Madras](https://www.iitm.ac.in/).
 - 📫 Reach me at [vikram.kv2001@gmail.com](mailto:vikram.kv2001@gmail.com).
 
 <!---
